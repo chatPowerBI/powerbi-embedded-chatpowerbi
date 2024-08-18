@@ -2,8 +2,7 @@
 
 This repository implements Power BI Embedding (apps own data) using NodeJS. It is based on the [Microsoft PowerBI-Developer-Samples](https://github.com/microsoft/PowerBI-Developer-Samples) repository. However, we go a step further by demonstrating how to embed not only an entire report, but also a custom visual. In our case, the custom visual is [chatPowerBI](https://chatpowerbi.ai), which allows users to interact with their report data using natural language through generative AI. It's like having the power of ChatGPT embedded directly within Power BI.
 
-![image](https://github.com/user-attachments/assets/8a35c7ab-14ae-4d81-b06f-5240908110b2)
-
+![1_6xOeQL9ouUS1XqoZdLYNSA](https://github.com/user-attachments/assets/7a751dc3-1030-4e2e-a6d6-904d53cd52c6)
 
 # Instructions
 
